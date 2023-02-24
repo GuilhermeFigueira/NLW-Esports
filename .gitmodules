@@ -1,0 +1,9 @@
+[submodule "nlw-esports-web"]
+	path = nlw-esports-web
+	url = https://github.com/GuilhermeFigueira/nlw-esports-web.git
+[submodule "nlw-esports-api"]
+	path = nlw-esports-api
+	url = https://github.com/GuilhermeFigueira/nlw-esports-api.git
+[submodule "nlw-esports-mobile"]
+	path = nlw-esports-mobile
+	url = https://github.com/GuilhermeFigueira/nlw-esports-mobile.git
